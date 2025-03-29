@@ -2,7 +2,7 @@ Methodology
 
 Data Collection:
 
-Gather historical cafeteria booking data, including timestamps, customer IDs, meal preferences, and seating capacity.
+Gather historical cafeteria data, including timestamps, meal preferences, and how often they visit.
 
 Preprocess the data to handle missing values, outliers, and inconsistencies.
 
